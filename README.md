@@ -1,0 +1,3 @@
+```console 
+python ga.py
+```
